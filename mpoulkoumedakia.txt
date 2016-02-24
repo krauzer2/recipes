@@ -1,0 +1,10 @@
+Ingredients:
+ - ingredient 1
+ - ingredient 2
+ - ingredient 3
+ - ingredient 4
+ 
+Directions:
+  1. no idea 1
+  2. no idea 2
+  3. no idea 3
